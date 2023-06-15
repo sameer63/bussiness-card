@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.avatar{
+    width: 150px;
+}
+.card{
+    color: #2b2839;
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+    width: 400px;
+   margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+}
+.italic{
+    font-style: italic;
+}
